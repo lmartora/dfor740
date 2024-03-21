@@ -1,3 +1,0 @@
-﻿  midTasklist.cpp
-C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\midTasklist\midTasklist.cpp(113,39): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
-  midTasklist.vcxproj -> C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\midTasklist\x64\Debug\midTasklist.exe
