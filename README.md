@@ -1,5 +1,5 @@
 # dfor 740
-Lorenzo Martorana's Repository for GMU DFOR 740. Contains entire Visual Studio project files, binaries, and source code.
+Lorenzo Martorana's Repository for GMU DFOR 740. Contains executable binaries and source code to them.
 
 ## Taskkill
 Terminates a specific process via PID or image name. 
