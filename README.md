@@ -1,11 +1,11 @@
 # dfor 740
-Lorenzo Martorana's Repository for GMU DFOR 740. Contains executable binaries and source code to them.
+Lorenzo Martorana's Repository for GMU DFOR 740. Contains executable binaries and the source code to them.
 
 ## Taskkill
 Terminates a specific process via PID or image name. 
 
 ### Usage
-To use taskkill, download ```midTaskkill.exe``` and run it on a Windows Command Prompt.
+To use taskkill, download ```midTaskkill.exe``` from this repository and run it on a Windows Command Prompt.
 
 ### Syntax
 ```midTaskkill.exe [/pid <pid> | /im <image name>] [/f] [/t]```
@@ -20,7 +20,7 @@ To use taskkill, download ```midTaskkill.exe``` and run it on a Windows Command 
 Displays a list of processes that are running on the computer and many specific details of them.
 
 ### Usage
-To use tasklist, download ```midTasklist.exe``` and run it on a Windows Command Prompt.
+To use tasklist, download ```midTasklist.exe``` from this repository and run it on a Windows Command Prompt.
 
 ### Syntax
 ```midTasklist.exe [/v] [/svc]```
