@@ -8,4 +8,4 @@ Terminates a specific process via PID or image name.
 Displays a list of processes that are running on the computer and many specific details of them.
 
 ## ssh
-A fake ssh emulator which when used, appears as if a user is connected to a real SSH session.
+A fake ssh emulator which when used, appears as if a user is connected to a real SSH session. Logs the username, IP, port, and password that the user uses to connect, as well as the commands they use.
