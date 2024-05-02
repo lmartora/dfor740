@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\ssh\main.cpp(17,74): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\ssh\main.cpp(17,74): warning C4267:         with
+C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\ssh\main.cpp(17,74): warning C4267:         [
+C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\ssh\main.cpp(17,74): warning C4267:             _Ty=int
+C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\ssh\main.cpp(17,74): warning C4267:         ]
+  ssh.vcxproj -> C:\Users\loren\OneDrive\Documents\_School\_GMU\_Spring 2024\DFOR 740\ssh\x64\Debug\ssh.exe
