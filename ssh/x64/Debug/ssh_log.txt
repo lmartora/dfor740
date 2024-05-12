@@ -1,0 +1,9 @@
+[Thu May  2 02:55:31 2024] User 'lorenzo' connected to -a:22 with password: [Thu May  2 02:55:42 2024] Command: exit 
+[Thu May  2 02:58:01 2024] User 'lorenzo' connected to 13:22 with password: [Thu May  2 02:58:12 2024] Command: exit 
+[Thu May  2 02:59:52 2024] User 'lorenzo' connected to 13:22 with password: [Thu May  2 02:59:57 2024] User 'lorenzo' connected to 13:22 with password: 
+[Thu May  2 03:00:06 2024] Command: cls 
+[Thu May  2 03:00:08 2024] Command: exit 
+[Thu May  2 03:02:16 2024] User 'lorenzo' connected to 192.168.13.151:22 with password: [Thu May  2 03:03:12 2024] User 'tracy' connected to 192.168.56.43:22 with password: ddkjfhoi
+[Thu May  2 03:03:25 2024] Command: cd 
+[Thu May  2 03:03:38 2024] Command: echo 
+[Thu May  2 03:05:21 2024] Command: exit 
